@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.vrkellerstimmungsexperience.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "D:\\Fh\\Semester6\\VR\\gitHUb\\VR-AR-Anwendung\\VR-Keller-Stimmungs-Experience\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "VR-Keller-Stimmungs-Experience [Testing]"
+        }
+      }
+    }
+  ]
+}

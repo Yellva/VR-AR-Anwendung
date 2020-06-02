@@ -1,8 +1,16 @@
 fileFormatVersion: 2
+<<<<<<< HEAD:VR-Keller-Stimmungs-Experience/Assets/Mansion set/Doors/Door2_Metal_EXTRA_EXTRA.mat.meta
 guid: c5807fa877d442e45b3288f1c6b47a31
 NativeFormatImporter:
   externalObjects: {}
   mainObjectFileID: 0
+=======
+guid: 61f4796ee4f00314e8d8b1ad39a78c28
+folderAsset: yes
+timeCreated: 1438797390
+licenseType: Store
+DefaultImporter:
+>>>>>>> eb4cecacfc2d95c56ccbdd7689e20c771a61953d:VR-Keller-Stimmungs-Experience/Assets/SteamVR/Extras.meta
   userData: 
   assetBundleName: 
   assetBundleVariant: 
